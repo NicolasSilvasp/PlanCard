@@ -2,7 +2,7 @@
 
 # MyServer - Página de Planos (HTML/CSS)
 
-![Preview do Projeto](Projeto%20plano.PNG)  
+![Preview do Projeto] https://plan-card.vercel.app/
 *Figura 1: Página estática responsiva criada com HTML e CSS puro*
 
 ## 📌 Sobre o Projeto
